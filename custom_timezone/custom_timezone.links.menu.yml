@@ -1,0 +1,6 @@
+custom_timezone.admin_settings_form:  
+  title: 'Time Zone Admin Configuration'  
+  route_name: custom_timezone.admin_settings_form  
+  description: 'Welcome message admin'  
+  parent: system.admin_config_system  
+  weight: 99 

@@ -1,0 +1,5 @@
+name: Custom Timezone  
+type: module  
+description: Display time as per the zone selected without cache rebuild 
+core_version_requirement: ^8 || ^9
+package: Custom 
